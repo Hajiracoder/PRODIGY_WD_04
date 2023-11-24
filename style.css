@@ -1,0 +1,195 @@
+*{
+    margin: 1px;
+    padding: 0px;
+}
+.bg{
+    background-image: url("planet.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.top-left{
+    width: 50%;
+    padding: 1px 0;
+}
+
+.top-right{
+    width: 50%;
+}
+
+
+.box{
+    padding: 8px 0px;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 9px;
+}
+
+.box ul{
+    list-style-type:none ;
+}
+
+.box ul li{
+    margin: 12px 2px;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0px;
+}
+
+.section2 h1{
+    font-size: 2.3rem;
+}
+
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+
+
+.bg-red{
+    background-color: red;
+}
+ 
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
+
+ .flex{
+    display:flex;
+ }
+
+ .item-center{
+    align-items: center;
+ }
+
+ .justify-between{
+    justify-content: space-between;
+ }
+
+ .justify-center{
+   justify-content: center;
+ }
+ 
+.flex-col{
+   flex-direction: column;
+}
+
+ .font-bold{
+    font-weight: bolder;
+ }
+
+
+
+
+ .btn{
+   padding: 7px 12px;
+   border: 2px solid white;
+   border-radius: 6pc;
+   cursor: pointer;
+   color: white;
+   background-image: url('planet.jpg') ;
+   cursor: pointer;
+}
+
+.text-center{
+   text-align: center;
+}
+.ng{
+    height: 500px;
+    width: 500px;
+}
+
+.section1 h1{
+   font-size: 2rem;
+
+}
+
+
+ .fai{
+    height: 50px;
+    width: 50px;
+ }
+
+ .section1{
+    height: 600px;
+ }
+
+ .ser{
+    text-align: center;
+    color: rgb(21, 75, 119);
+ }
+
+ .divi{
+    color: rgb(21, 75, 119) ;
+ }
+
+.j{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding: 65px;
+
+}
+
+ .ph{
+    height: 75px;
+    width: 75px;
+ }
+
+ .i{
+    text-align: center;
+ }
+ 
+ .text-center{
+    text-align: center;
+ }
+
+ .ij{
+    list-style-type: disc;
+ }
+ .k{
+    font-weight: bolder;
+    font-size: larger;
+ }
+ .v{
+    margin-left: 55px;
+    margin-right: 55px;
+ }
+ .z{
+    margin-left: 150px;
+    margin-right: 90px;
+ }
+
+ .d{
+    color: white;
+    background-image: url("planet.jpg");
+ }
+
+ .fairy{
+    font-family: cursive;
+ }
